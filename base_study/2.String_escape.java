@@ -15,6 +15,7 @@ public class RunStatementExample {
 		System.out.println(c);
 	}
 }
+// \u16진수 : 16진수 유니코드에 해당하는 문자 출력
 
 /* 출력
 
