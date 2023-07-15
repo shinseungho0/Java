@@ -17,3 +17,9 @@ public class RunStatementExample {
 		System.out.println(var4);
 	}
 }
+/* 출력
+
+10
+20
+1000000000000 
+*/	
