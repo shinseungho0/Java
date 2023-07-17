@@ -32,3 +32,13 @@ public class RunStatementExample {
 	
 }
 }
+
+/* 출력결과
+
+value3: true
+20
+str1: 10
+str2: 3.14
+str3: true
+1010
+*/
